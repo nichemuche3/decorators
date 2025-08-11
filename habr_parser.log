@@ -1,0 +1,95 @@
+2025-08-11 13:09:05 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935794/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:05 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935926/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:05 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/pvs-studio/articles/935922/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['web'])
+
+2025-08-11 13:09:06 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/moex/articles/935326/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['python'])
+
+2025-08-11 13:09:06 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935368/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:06 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935134/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:06 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/oleg-bunin/articles/935332/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:06 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/ruvds/articles/933120/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:07 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935898/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:07 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935500/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['фото'])
+
+2025-08-11 13:09:07 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935884/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['фото', 'web'])
+
+2025-08-11 13:09:08 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/935820/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:08 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/bitrix/articles/935474/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:08 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/selectel/articles/935416/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['дизайн', 'фото'])
+
+2025-08-11 13:09:08 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/intervolga/articles/935878/',), kwargs={}
+Успешно выполнена
+Результат: (False, [])
+
+2025-08-11 13:09:09 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/mvideo/articles/935870/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['дизайн'])
+
+2025-08-11 13:09:09 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/articles/932394/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['python'])
+
+2025-08-11 13:09:09 - Функция: check_article_content
+Аргументы: args=('https://habr.com/ru/companies/beget/articles/933432/',), kwargs={}
+Успешно выполнена
+Результат: (True, ['дизайн'])
+
+2025-08-11 13:09:05 - Функция: scrape_habr
+Аргументы: args=(), kwargs={}
+Успешно выполнена
+Результат: ['11.08.2025 – Пользовательские аннотации PVS-Studio теперь и в Java – https://habr.com/ru/companies...
+
